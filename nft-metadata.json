@@ -1,0 +1,18 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Species",
+      "value" : "Vachellia tortilis"
+    }, {
+      "trait_type" : "Age",
+      "value" : "32"
+    }, {
+      "trait_type" : "Lattitude",
+      "value" : "28.5393"
+    }, {
+      "trait_type" : "Longitude",
+      "value" : "33.9749"
+    } ],
+    "description" : "Finis est societas aequa.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmZTsZa95sFFmY5KhCsdnRLe3YbkgYh1wBzMzn2jNY1jMu",
+    "name" : "Eye Opening Spark"
+}
